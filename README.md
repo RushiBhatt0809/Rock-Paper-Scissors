@@ -14,7 +14,7 @@ A Rock Paper Scissors game built with React.js
 - CSS3
 
 ## 🚀 Run Locally
-git clone https://github.com/HollowGabimaru09/rock-paper-scissors.git
+git clone https://github.com/RushiBhatt0809/rock-paper-scissors.git
 
 cd rock-paper-scissors
 
